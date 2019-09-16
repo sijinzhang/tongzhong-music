@@ -55,3 +55,4 @@ http://47.92.152.143/api/tech/indicators/macd?code=002447&interval=5&key=
 
 key是必填项，
 如果需要使用，请捐赠5-8元（一瓶红牛），备注邮箱地址，收到立马回复key。
+http://album.sina.com.cn/pic/001mRFe3zy7x48nbFh963
